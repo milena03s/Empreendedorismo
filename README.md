@@ -3,7 +3,8 @@
 
 ### Links Importantes
 
-Em breve arquivos editáveis como Canva e Word
+Em breve arquivos editáveis como Canva e Word 
+[Um docs com todas as fontes]()
 
 ### Fontes utilizadas: 
 
