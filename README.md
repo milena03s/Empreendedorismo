@@ -15,4 +15,6 @@ Em breve arquivos editáveis como Canva e Word
 [Pesquisa da Harvard (em inglês)](https://www.gse.harvard.edu/ideas/news/23/10/mental-health-challenges-young-adults-illuminated-new-report )
 
 [Artigo da Biblioteca Nacional de Medicina de 2015 (Em inglês)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4953734/)
+
+[pesquisa sobre a saúde mental em campinas, SP](https://www.scielo.br/j/csc/a/bPpQztZyRtWHjkv7DvncTrd/?format=pdf&lang=pt)
  
