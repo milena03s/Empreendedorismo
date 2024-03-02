@@ -16,5 +16,5 @@ Em breve arquivos editáveis como Canva e Word
 
 [Artigo da Biblioteca Nacional de Medicina de 2015 (Em inglês)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4953734/)
 
-[Pesquisa sobre a saúde mental em Campinas, SP](https://www.scielo.br/j/csc/a/bPpQztZyRtWHjkv7DvncTrd/?format=pdf&lang=pt)
+[Artigo sobre a saúde mental em Campinas, SP](https://www.scielo.br/j/csc/a/bPpQztZyRtWHjkv7DvncTrd/?format=pdf&lang=pt)
  
